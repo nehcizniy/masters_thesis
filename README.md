@@ -7,3 +7,4 @@ Thesis folder contains codes that are newer.\
 07/21/2024\
 Cleaner text result files will be added to the newest result folder.\
 Some data for integrated yield do not have systematic uncertainties because the original data does not have them.\
+The order of p1~pn files can be found in the plotting micros within the same folder. Generally, it's of the order of system size from large to small, and year new to old.
