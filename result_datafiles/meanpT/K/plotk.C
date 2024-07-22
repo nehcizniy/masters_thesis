@@ -68,8 +68,8 @@ void plotk() {
     mg->GetYaxis()->SetLabelSize(.020);
 
     mg->GetXaxis()->SetLimits(.5,1000.);
-    mg->SetMinimum(0.5);
-    mg->SetMaximum(1.5);
+    mg->SetMinimum(0.8);
+    mg->SetMaximum(1.05);
     gPad->SetTickx(1);
     gPad->SetTicky(1); 
     gPad->SetFixedAspectRatio();
