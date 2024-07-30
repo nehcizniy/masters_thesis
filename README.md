@@ -11,8 +11,8 @@ The order of p1~pn files can be found in the plotting micros within the same fol
 07/30/2024\
 Current available data:\
 * <pT>
-+ pi 0.5-2.0GeV
-+ k 0.5-2.0GeV
-+ p 0.6-2.0GeV
+  + pi 0.5-2.0GeV
+  + k 0.5-2.0GeV
+  + p 0.6-2.0GeV
 * Integrated yield
-+ p 0.6-2.0GeV
+  + p 0.6-2.0GeV
