@@ -11,10 +11,19 @@ Some data for integrated yield do not have systematic uncertainties because the 
 The order of p1~pn files can be found in the plotting micros within the same folder. Generally, it's of the order of system size from large to small, and year new to old.  
 
 07/30/2024  
+Added some results.  
+
+08/19/2024  
+Added all integrated yield results.  
+Changed the format of previous proton integrated yield files so now it also contains statistical errors listing after systematic error column.  
 Current available data:  
 * \<pT\>
   + pi 0.5-2.0GeV
   + k 0.5-2.0GeV
   + p 0.6-2.0GeV
 * Integrated yield
+  + pi 0.5-2.0GeV
+  + k 0.5-2.0GeV
   + p 0.6-2.0GeV
+* Inverse slop
+  + 
